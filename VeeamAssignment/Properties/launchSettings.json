@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VeeamAssignment": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\yarde\\source\\repos\\VeeamAssignment\\Source\"\r\n\"C:\\Users\\yarde\\source\\repos\\VeeamAssignment\\Replica\"\r\n15\r\n\"C:\\Users\\yarde\\source\\repos\\VeeamAssignment\\logFile.txt\""
+    }
+  }
+}

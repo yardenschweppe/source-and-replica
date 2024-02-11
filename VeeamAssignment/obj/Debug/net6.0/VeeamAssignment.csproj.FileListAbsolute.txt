@@ -1,0 +1,15 @@
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\bin\Debug\net6.0\VeeamAssignment.exe
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\bin\Debug\net6.0\VeeamAssignment.deps.json
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\bin\Debug\net6.0\VeeamAssignment.runtimeconfig.json
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\bin\Debug\net6.0\VeeamAssignment.dll
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\bin\Debug\net6.0\VeeamAssignment.pdb
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\obj\Debug\net6.0\VeeamAssignment.csproj.AssemblyReference.cache
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\obj\Debug\net6.0\VeeamAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\obj\Debug\net6.0\VeeamAssignment.AssemblyInfoInputs.cache
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\obj\Debug\net6.0\VeeamAssignment.AssemblyInfo.cs
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\obj\Debug\net6.0\VeeamAssignment.csproj.CoreCompileInputs.cache
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\obj\Debug\net6.0\VeeamAssignment.dll
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\obj\Debug\net6.0\refint\VeeamAssignment.dll
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\obj\Debug\net6.0\VeeamAssignment.pdb
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\obj\Debug\net6.0\VeeamAssignment.genruntimeconfig.cache
+C:\Users\yarde\source\repos\VeeamAssignment\VeeamAssignment\obj\Debug\net6.0\ref\VeeamAssignment.dll

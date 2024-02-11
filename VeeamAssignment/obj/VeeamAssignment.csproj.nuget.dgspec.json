@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yardenschweppe/Downloads/Source-Replica-program-main/VeeamAssignment/VeeamAssignment.csproj": {}
+  },
+  "projects": {
+    "/Users/yardenschweppe/Downloads/Source-Replica-program-main/VeeamAssignment/VeeamAssignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yardenschweppe/Downloads/Source-Replica-program-main/VeeamAssignment/VeeamAssignment.csproj",
+        "projectName": "VeeamAssignment",
+        "projectPath": "/Users/yardenschweppe/Downloads/Source-Replica-program-main/VeeamAssignment/VeeamAssignment.csproj",
+        "packagesPath": "/Users/yardenschweppe/.nuget/packages/",
+        "outputPath": "/Users/yardenschweppe/Downloads/Source-Replica-program-main/VeeamAssignment/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yardenschweppe/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
